@@ -1,0 +1,26 @@
+C:\Users\Anonymux2772\Desktop\G\Caballo\bin\Debug\netcoreapp3.1\Caballo.exe
+C:\Users\Anonymux2772\Desktop\G\Caballo\bin\Debug\netcoreapp3.1\Caballo.deps.json
+C:\Users\Anonymux2772\Desktop\G\Caballo\bin\Debug\netcoreapp3.1\Caballo.runtimeconfig.json
+C:\Users\Anonymux2772\Desktop\G\Caballo\bin\Debug\netcoreapp3.1\Caballo.runtimeconfig.dev.json
+C:\Users\Anonymux2772\Desktop\G\Caballo\bin\Debug\netcoreapp3.1\Caballo.dll
+C:\Users\Anonymux2772\Desktop\G\Caballo\bin\Debug\netcoreapp3.1\Caballo.pdb
+C:\Users\Anonymux2772\Desktop\G\Caballo\obj\Debug\netcoreapp3.1\Caballo.csprojAssemblyReference.cache
+C:\Users\Anonymux2772\Desktop\G\Caballo\obj\Debug\netcoreapp3.1\Caballo.AssemblyInfoInputs.cache
+C:\Users\Anonymux2772\Desktop\G\Caballo\obj\Debug\netcoreapp3.1\Caballo.AssemblyInfo.cs
+C:\Users\Anonymux2772\Desktop\G\Caballo\obj\Debug\netcoreapp3.1\Caballo.csproj.CoreCompileInputs.cache
+C:\Users\Anonymux2772\Desktop\G\Caballo\obj\Debug\netcoreapp3.1\Caballo.dll
+C:\Users\Anonymux2772\Desktop\G\Caballo\obj\Debug\netcoreapp3.1\Caballo.pdb
+C:\Users\Anonymux2772\Desktop\G\Caballo\obj\Debug\netcoreapp3.1\Caballo.genruntimeconfig.cache
+D:\3.-Archivo en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Caballo\bin\Debug\netcoreapp3.1\Caballo.exe
+D:\3.-Archivo en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Caballo\bin\Debug\netcoreapp3.1\Caballo.deps.json
+D:\3.-Archivo en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Caballo\bin\Debug\netcoreapp3.1\Caballo.runtimeconfig.json
+D:\3.-Archivo en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Caballo\bin\Debug\netcoreapp3.1\Caballo.runtimeconfig.dev.json
+D:\3.-Archivo en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Caballo\bin\Debug\netcoreapp3.1\Caballo.dll
+D:\3.-Archivo en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Caballo\bin\Debug\netcoreapp3.1\Caballo.pdb
+D:\3.-Archivo en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Caballo\obj\Debug\netcoreapp3.1\Caballo.csprojAssemblyReference.cache
+D:\3.-Archivo en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Caballo\obj\Debug\netcoreapp3.1\Caballo.AssemblyInfoInputs.cache
+D:\3.-Archivo en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Caballo\obj\Debug\netcoreapp3.1\Caballo.AssemblyInfo.cs
+D:\3.-Archivo en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Caballo\obj\Debug\netcoreapp3.1\Caballo.csproj.CoreCompileInputs.cache
+D:\3.-Archivo en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Caballo\obj\Debug\netcoreapp3.1\Caballo.dll
+D:\3.-Archivo en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Caballo\obj\Debug\netcoreapp3.1\Caballo.pdb
+D:\3.-Archivo en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Caballo\obj\Debug\netcoreapp3.1\Caballo.genruntimeconfig.cache

@@ -1,0 +1,450 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4CA706DE-A961-4423-B8E2-D374622B98BE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Algoritmos</RootNamespace>
+    <AssemblyName>Algoritmos</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ActJue\Caballo.cs" />
+    <Compile Include="Armas\cArma1.cs" />
+    <Compile Include="Armas\cArma2.cs" />
+    <Compile Include="Armas\cArma3.cs" />
+    <Compile Include="Armas\cArma4.cs" />
+    <Compile Include="Clases\Actualizaciones.cs" />
+    <Compile Include="Clases\Conexion.cs" />
+    <Compile Include="Clases\Consultas.cs" />
+    <Compile Include="Clases\InicioSesion.cs" />
+    <Compile Include="Clases\Ladderboard.cs" />
+    <Compile Include="Clases\Pacmac\Audio.cs" />
+    <Compile Include="Clases\Pacmac\Food.cs" />
+    <Compile Include="Clases\Pacmac\FormElements.cs" />
+    <Compile Include="Clases\Pacmac\GameBoard.cs" />
+    <Compile Include="Clases\Pacmac\Ghost.cs" />
+    <Compile Include="Clases\Pacmac\HighScore.cs" />
+    <Compile Include="Clases\Pacmac\PacmacLadder.cs" />
+    <Compile Include="Clases\Pacmac\Pacman.cs" />
+    <Compile Include="Clases\Pacmac\Player.cs" />
+    <Compile Include="Clases\Usuario.cs" />
+    <Compile Include="Clases\Validaciones.cs" />
+    <Compile Include="cValidaciones.cs" />
+    <Compile Include="frmConsejos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsejos.Designer.cs">
+      <DependentUpon>frmConsejos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmInicio.Designer.cs">
+      <DependentUpon>FrmInicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInicio2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInicio2.Designer.cs">
+      <DependentUpon>frmInicio2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPreMatchUno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPreMatchUno.Designer.cs">
+      <DependentUpon>frmPreMatchUno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReglas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReglas.Designer.cs">
+      <DependentUpon>frmReglas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSignUp.Designer.cs">
+      <DependentUpon>FrmSignUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUnjugador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUnjugador.Designer.cs">
+      <DependentUpon>frmUnjugador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUsrHub.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUsrHub.Designer.cs">
+      <DependentUpon>FrmUsrHub.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jugador.cs" />
+    <Compile Include="Multimedia.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Multimedia.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Navios\Aviones.cs" />
+    <Compile Include="Navios\Barcos.cs" />
+    <Compile Include="Navios\Subs_g.cs" />
+    <Compile Include="Navios\Subs_p.cs" />
+    <Compile Include="Navios\Vehiculos.cs" />
+    <Compile Include="Pacman.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pacman.Designer.cs">
+      <DependentUpon>Pacman.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tablero.cs" />
+    <EmbeddedResource Include="frmConsejos.resx">
+      <DependentUpon>frmConsejos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmInicio.resx">
+      <DependentUpon>FrmInicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInicio2.resx">
+      <DependentUpon>frmInicio2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPreMatchUno.resx">
+      <DependentUpon>frmPreMatchUno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReglas.resx">
+      <DependentUpon>frmReglas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSignUp.resx">
+      <DependentUpon>FrmSignUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUnjugador.resx">
+      <DependentUpon>frmUnjugador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUsrHub.resx">
+      <DependentUpon>FrmUsrHub.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Multimedia.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Multimedia.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pacman.resx">
+      <DependentUpon>Pacman.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Audios\Aguaimpacto.wav" />
+    <Content Include="Audios\Bombacayendo.wav" />
+    <Content Include="Audios\Clock.wav" />
+    <Content Include="Audios\Contacto.wav" />
+    <Content Include="Audios\Fondo2.wav" />
+    <Content Include="Audios\Fondo3.wav" />
+    <Content Include="Audios\HitmarkII.wav" />
+    <Content Include="Audios\Kaboom.wav" />
+    <Content Include="Audios\MarioK_Item1_2.wav" />
+    <Content Include="Audios\MarioK_Item2_2.wav" />
+    <Content Include="Audios\MarioK_Itemv2.wav" />
+    <Content Include="Audios\Sonido_barcos.wav" />
+    <Content Include="Audios\Sonido_Fondo.wav" />
+    <Content Include="Audios\torpedo.wav" />
+    <Content Include="Audios\Youlose.wav" />
+    <Content Include="Audios\Youwin.wav" />
+    <Content Include="Audios\Youwinexpert.wav" />
+    <Content Include="Imagenes\A.jpg" />
+    <Content Include="Imagenes\B.jpg" />
+    <Content Include="Imagenes\C.jpg" />
+    <Content Include="Imagenes\c2311.jpg" />
+    <Content Include="Imagenes\c23111.jpg" />
+    <Content Include="Imagenes\c2312.jpg" />
+    <Content Include="Imagenes\c23121.jpg" />
+    <Content Include="Imagenes\c2313.jpg" />
+    <Content Include="Imagenes\c23131.jpg" />
+    <Content Include="Imagenes\c2314.jpg" />
+    <Content Include="Imagenes\c23141.jpg" />
+    <Content Include="Imagenes\c2321.jpg" />
+    <Content Include="Imagenes\c2322.jpg" />
+    <Content Include="Imagenes\c2323.jpg" />
+    <Content Include="Imagenes\c2324.jpg" />
+    <Content Include="Imagenes\c2325.jpg" />
+    <Content Include="Imagenes\c2326.jpg" />
+    <Content Include="Imagenes\c2327.jpg" />
+    <Content Include="Imagenes\c2328.jpg" />
+    <Content Include="Imagenes\c2331.jpg" />
+    <Content Include="Imagenes\c2332.jpg" />
+    <Content Include="Imagenes\c2333.jpg" />
+    <Content Include="Imagenes\c2334.jpg" />
+    <Content Include="Imagenes\c2335.jpg" />
+    <Content Include="Imagenes\c2336.jpg" />
+    <Content Include="Imagenes\c2401.jpg" />
+    <Content Include="Imagenes\c2402.jpg" />
+    <Content Include="Imagenes\c2411.jpg" />
+    <Content Include="Imagenes\c2412.jpg" />
+    <Content Include="Imagenes\c2413.jpg" />
+    <Content Include="Imagenes\c2414.jpg" />
+    <Content Include="Imagenes\c2421.jpg" />
+    <Content Include="Imagenes\c2422.jpg" />
+    <Content Include="Imagenes\c2423.jpg" />
+    <Content Include="Imagenes\c2424.jpg" />
+    <Content Include="Imagenes\c2425.jpg" />
+    <Content Include="Imagenes\c2426.jpg" />
+    <Content Include="Imagenes\c2427.jpg" />
+    <Content Include="Imagenes\c2428.jpg" />
+    <Content Include="Imagenes\c2431.jpg" />
+    <Content Include="Imagenes\c2432.jpg" />
+    <Content Include="Imagenes\c2433.jpg" />
+    <Content Include="Imagenes\c2434.jpg" />
+    <Content Include="Imagenes\c2435.jpg" />
+    <Content Include="Imagenes\c2436.jpg" />
+    <Content Include="Imagenes\c249.jpg" />
+    <Content Include="Imagenes\c2501.jpg" />
+    <Content Include="Imagenes\c2502.jpg" />
+    <Content Include="Imagenes\c2511.jpg" />
+    <Content Include="Imagenes\c2512.jpg" />
+    <Content Include="Imagenes\c2513.jpg" />
+    <Content Include="Imagenes\c2514.jpg" />
+    <Content Include="Imagenes\c2521.jpg" />
+    <Content Include="Imagenes\c2522.jpg" />
+    <Content Include="Imagenes\c2523.jpg" />
+    <Content Include="Imagenes\c2524.jpg" />
+    <Content Include="Imagenes\c2525.jpg" />
+    <Content Include="Imagenes\c2526.jpg" />
+    <Content Include="Imagenes\c2527.jpg" />
+    <Content Include="Imagenes\c2528.jpg" />
+    <Content Include="Imagenes\c2531.jpg" />
+    <Content Include="Imagenes\c2532.jpg" />
+    <Content Include="Imagenes\c2533.jpg" />
+    <Content Include="Imagenes\c2534.jpg" />
+    <Content Include="Imagenes\c2535.jpg" />
+    <Content Include="Imagenes\c2536.jpg" />
+    <Content Include="Imagenes\c254.jpg" />
+    <Content Include="Imagenes\Capitan.jpg" />
+    <Content Include="Imagenes\D.jpg" />
+    <Content Include="Imagenes\Diseño1.jpeg" />
+    <Content Include="Imagenes\E.jpg" />
+    <Content Include="Imagenes\F.jpg" />
+    <Content Include="Imagenes\Fondobarcos.png" />
+    <Content Include="Imagenes\FondoConsejos.jpg" />
+    <Content Include="Imagenes\Fondofrmpre.jpg" />
+    <Content Include="Imagenes\G.jpg" />
+    <Content Include="Imagenes\General.jpg" />
+    <Content Include="Imagenes\H.jpg" />
+    <Content Include="Imagenes\I.png" />
+    <Content Include="Imagenes\Icono_App.ico" />
+    <Content Include="Imagenes\II.png" />
+    <Content Include="Imagenes\III.png" />
+    <Content Include="Imagenes\Inicio_img2.jpg" />
+    <Content Include="Imagenes\IV.png" />
+    <Content Include="Imagenes\Jugador.jpg" />
+    <Content Include="Imagenes\Parche.jpg" />
+    <Content Include="Imagenes\rangos.jpg" />
+    <Content Include="Imagenes\rasholazer.jpg" />
+    <Content Include="Imagenes\R_Consola.jpg" />
+    <Content Include="Imagenes\R_Disparo.jpg" />
+    <Content Include="Imagenes\R_Musicaespera.jpg" />
+    <Content Include="Imagenes\R_Nombres.jpg" />
+    <Content Include="Imagenes\R_pantallaprincipal.jpg" />
+    <Content Include="Imagenes\R_recordatorios.jpg" />
+    <Content Include="Imagenes\R_Reportes.jpg" />
+    <Content Include="Imagenes\R_simbologia.jpg" />
+    <Content Include="Imagenes\R_simbologiaII.jpg" />
+    <Content Include="Imagenes\R_tableroA.jpg" />
+    <Content Include="Imagenes\R_Visualiza.jpg" />
+    <Content Include="Imagenes\submarino1.jpg" />
+    <Content Include="Imagenes\SUB_ICO.jpg" />
+    <Content Include="Imagenes\Teniente.jpg" />
+    <Content Include="Imagenes\V.png" />
+    <Content Include="Imagenes\VS.jpg" />
+    <Content Include="Imagenes\VS2.jpg" />
+    <Content Include="Imagenes\XZ.png" />
+    <Content Include="Images\Fondofrmpre.jpg" />
+    <None Include="Resources\HitmarkII.wav" />
+    <None Include="Resources\Fondo3.wav" />
+    <None Include="Resources\Fondo2.wav" />
+    <None Include="Resources\Contacto.wav" />
+    <None Include="Resources\Clock.wav" />
+    <None Include="Resources\Bombacayendo.wav" />
+    <None Include="Resources\Aguaimpacto.wav" />
+    <None Include="Resources\Youwinexpert.wav" />
+    <None Include="Resources\Youwin.wav" />
+    <None Include="Resources\Youlose.wav" />
+    <None Include="Resources\torpedo.wav" />
+    <None Include="Resources\Sonido_Fondo.wav" />
+    <None Include="Resources\Sonido_barcos.wav" />
+    <None Include="Resources\MarioK_Itemv2.wav" />
+    <None Include="Resources\MarioK_Item2_2.wav" />
+    <None Include="Resources\MarioK_Item1_2.wav" />
+    <None Include="Resources\Kaboom.wav" />
+    <None Include="Resources\c23141.jpg" />
+    <None Include="Resources\c23131.jpg" />
+    <None Include="Resources\c23121.jpg" />
+    <None Include="Resources\c23111.jpg" />
+    <None Include="Resources\Teniente.jpg" />
+    <None Include="Resources\Parche.jpg" />
+    <None Include="Resources\General.jpg" />
+    <None Include="Resources\Capitan.jpg" />
+    <None Include="Resources\c254.jpg" />
+    <None Include="Resources\c2536.jpg" />
+    <None Include="Resources\c2535.jpg" />
+    <None Include="Resources\c2534.jpg" />
+    <None Include="Resources\c2533.jpg" />
+    <None Include="Resources\c2532.jpg" />
+    <None Include="Resources\c2531.jpg" />
+    <None Include="Resources\c2528.jpg" />
+    <None Include="Resources\c2527.jpg" />
+    <None Include="Resources\c2526.jpg" />
+    <None Include="Resources\c2525.jpg" />
+    <None Include="Resources\c2524.jpg" />
+    <None Include="Resources\c2523.jpg" />
+    <None Include="Resources\c2522.jpg" />
+    <None Include="Resources\c2521.jpg" />
+    <None Include="Resources\c2514.jpg" />
+    <None Include="Resources\c2513.jpg" />
+    <None Include="Resources\c2512.jpg" />
+    <None Include="Resources\c2511.jpg" />
+    <None Include="Resources\c2502.jpg" />
+    <None Include="Resources\c2501.jpg" />
+    <None Include="Resources\c249.jpg" />
+    <None Include="Resources\c2436.jpg" />
+    <None Include="Resources\c2435.jpg" />
+    <None Include="Resources\c2434.jpg" />
+    <None Include="Resources\c2433.jpg" />
+    <None Include="Resources\c2432.jpg" />
+    <None Include="Resources\c2431.jpg" />
+    <None Include="Resources\c2428.jpg" />
+    <None Include="Resources\c2427.jpg" />
+    <None Include="Resources\c2426.jpg" />
+    <None Include="Resources\c2425.jpg" />
+    <None Include="Resources\c2424.jpg" />
+    <None Include="Resources\c2423.jpg" />
+    <None Include="Resources\c2422.jpg" />
+    <None Include="Resources\c2421.jpg" />
+    <None Include="Resources\c2414.jpg" />
+    <None Include="Resources\c2413.jpg" />
+    <None Include="Resources\c2412.jpg" />
+    <None Include="Resources\c2411.jpg" />
+    <None Include="Resources\c2402.jpg" />
+    <None Include="Resources\c2401.jpg" />
+    <None Include="Resources\c2336.jpg" />
+    <None Include="Resources\c2335.jpg" />
+    <None Include="Resources\c2334.jpg" />
+    <None Include="Resources\c2333.jpg" />
+    <None Include="Resources\c2332.jpg" />
+    <None Include="Resources\c2331.jpg" />
+    <None Include="Resources\c2328.jpg" />
+    <None Include="Resources\c2327.jpg" />
+    <None Include="Resources\c2326.jpg" />
+    <None Include="Resources\c2325.jpg" />
+    <None Include="Resources\c2324.jpg" />
+    <None Include="Resources\c2323.jpg" />
+    <None Include="Resources\c2322.jpg" />
+    <None Include="Resources\c2321.jpg" />
+    <None Include="Resources\c2314.jpg" />
+    <None Include="Resources\c2313.jpg" />
+    <None Include="Resources\c2312.jpg" />
+    <None Include="Resources\c2311.jpg" />
+    <None Include="Resources\Pacman.ico" />
+    <None Include="Resources\Pacman 4 3.png" />
+    <None Include="Resources\Pacman 4 2.png" />
+    <None Include="Resources\Pacman 4 1.png" />
+    <None Include="Resources\Pacman 4 0.png" />
+    <None Include="Resources\Pacman 3 3.png" />
+    <None Include="Resources\Pacman 3 2.png" />
+    <None Include="Resources\Pacman 3 1.png" />
+    <None Include="Resources\Pacman 3 0.png" />
+    <None Include="Resources\Pacman 2 3.png" />
+    <None Include="Resources\Pacman 2 2.png" />
+    <None Include="Resources\Pacman 2 1.png" />
+    <None Include="Resources\Pacman 2 0.png" />
+    <None Include="Resources\Pacman 1 3.png" />
+    <None Include="Resources\Pacman 1 2.png" />
+    <None Include="Resources\Pacman 1 1.png" />
+    <None Include="Resources\Pacman 1 0.png" />
+    <None Include="Resources\Pacman 0.png" />
+    <None Include="Resources\Life.png" />
+    <None Include="Resources\Ghost 5.png" />
+    <None Include="Resources\Ghost 4.png" />
+    <None Include="Resources\Ghost 3 4.png" />
+    <None Include="Resources\Ghost 3 3.png" />
+    <None Include="Resources\Ghost 3 2.png" />
+    <None Include="Resources\Ghost 3 1.png" />
+    <None Include="Resources\Ghost 2 4.png" />
+    <None Include="Resources\Ghost 2 3.png" />
+    <None Include="Resources\Ghost 2 2.png" />
+    <None Include="Resources\Ghost 2 1.png" />
+    <None Include="Resources\Ghost 1 4.png" />
+    <None Include="Resources\Ghost 1 3.png" />
+    <None Include="Resources\Ghost 1 2.png" />
+    <None Include="Resources\Ghost 1 1.png" />
+    <None Include="Resources\Ghost 0 4.png" />
+    <None Include="Resources\Ghost 0 3.png" />
+    <None Include="Resources\Ghost 0 2.png" />
+    <None Include="Resources\Ghost 0 1.png" />
+    <None Include="Resources\eyes.png" />
+    <None Include="Resources\Board 1.bmp" />
+    <None Include="Resources\Block 2.png" />
+    <None Include="Resources\Block 1.png" />
+    <None Include="Resources\audio1.wav" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,50 @@
+D:\3.-Archivos en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Algoritmos\Algoritmos\bin\Debug\Algoritmos.exe.config
+D:\3.-Archivos en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Algoritmos\Algoritmos\bin\Debug\Algoritmos.exe
+D:\3.-Archivos en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Algoritmos\Algoritmos\bin\Debug\Algoritmos.pdb
+D:\3.-Archivos en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.csprojAssemblyReference.cache
+D:\3.-Archivos en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.FrmInicio.resources
+D:\3.-Archivos en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.Properties.Resources.resources
+D:\3.-Archivos en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.csproj.GenerateResource.cache
+D:\3.-Archivos en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.csproj.CoreCompileInputs.cache
+D:\3.-Archivos en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.exe
+D:\3.-Archivos en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.pdb
+D:\3.-Archivos en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.FrmSignUp.resources
+D:\3.-Archivos en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.FrmUsrHub.resources
+D:\3.-Archivo en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Algoritmos\Algoritmos\bin\Debug\Algoritmos.exe.config
+D:\3.-Archivo en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Algoritmos\Algoritmos\bin\Debug\Algoritmos.exe
+D:\3.-Archivo en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Algoritmos\Algoritmos\bin\Debug\Algoritmos.pdb
+D:\3.-Archivo en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.csprojAssemblyReference.cache
+D:\3.-Archivo en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.FrmInicio.resources
+D:\3.-Archivo en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.FrmSignUp.resources
+D:\3.-Archivo en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.FrmUsrHub.resources
+D:\3.-Archivo en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.Properties.Resources.resources
+D:\3.-Archivo en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.csproj.GenerateResource.cache
+D:\3.-Archivo en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.csproj.CoreCompileInputs.cache
+D:\3.-Archivo en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.exe
+D:\3.-Archivo en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.pdb
+D:\3.-Archivo en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.Pacman.resources
+D:\3.-Archivo en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.frmConsejos.resources
+D:\3.-Archivo en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.frmInicio2.resources
+D:\3.-Archivo en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.frmPreMatchUno.resources
+D:\3.-Archivo en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.frmReglas.resources
+D:\3.-Archivo en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.frmUnjugador.resources
+D:\3.-Archivo en uso\0.-PseudoDesktop\3er_V0.01\0.-Unidades de Aprendizaje\9.-Algoritmos Computacionales\12.-ProyectoAlgoritmos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.Multimedia.resources
+D:\6.-Proyectos\GITHUB_mainnet\CS-001-MenuJuegos\3NM40\Algoritmos\Algoritmos\obj\Debug\Algoritmos.csprojAssemblyReference.cache
+D:\6.-Proyectos\GITHUB_mainnet\CS-001-MenuJuegos\3NM40\Algoritmos\Algoritmos\obj\Debug\Algoritmos.exe
+D:\6.-Proyectos\GITHUB_mainnet\CS-001-MenuJuegos\3NM40\Algoritmos\Algoritmos\obj\Debug\Algoritmos.pdb
+D:\6.-Proyectos\GITHUB_mainnet\CS-001-MenuJuegos\3NM40\Algoritmos\Algoritmos\bin\Debug\Algoritmos.exe.config
+D:\6.-Proyectos\GITHUB_mainnet\CS-001-MenuJuegos\3NM40\Algoritmos\Algoritmos\bin\Debug\Algoritmos.exe
+D:\6.-Proyectos\GITHUB_mainnet\CS-001-MenuJuegos\3NM40\Algoritmos\Algoritmos\bin\Debug\Algoritmos.pdb
+D:\6.-Proyectos\GITHUB_mainnet\CS-001-MenuJuegos\3NM40\Algoritmos\Algoritmos\obj\Debug\Algoritmos.frmConsejos.resources
+D:\6.-Proyectos\GITHUB_mainnet\CS-001-MenuJuegos\3NM40\Algoritmos\Algoritmos\obj\Debug\Algoritmos.FrmInicio.resources
+D:\6.-Proyectos\GITHUB_mainnet\CS-001-MenuJuegos\3NM40\Algoritmos\Algoritmos\obj\Debug\Algoritmos.frmInicio2.resources
+D:\6.-Proyectos\GITHUB_mainnet\CS-001-MenuJuegos\3NM40\Algoritmos\Algoritmos\obj\Debug\Algoritmos.frmPreMatchUno.resources
+D:\6.-Proyectos\GITHUB_mainnet\CS-001-MenuJuegos\3NM40\Algoritmos\Algoritmos\obj\Debug\Algoritmos.frmReglas.resources
+D:\6.-Proyectos\GITHUB_mainnet\CS-001-MenuJuegos\3NM40\Algoritmos\Algoritmos\obj\Debug\Algoritmos.FrmSignUp.resources
+D:\6.-Proyectos\GITHUB_mainnet\CS-001-MenuJuegos\3NM40\Algoritmos\Algoritmos\obj\Debug\Algoritmos.frmUnjugador.resources
+D:\6.-Proyectos\GITHUB_mainnet\CS-001-MenuJuegos\3NM40\Algoritmos\Algoritmos\obj\Debug\Algoritmos.FrmUsrHub.resources
+D:\6.-Proyectos\GITHUB_mainnet\CS-001-MenuJuegos\3NM40\Algoritmos\Algoritmos\obj\Debug\Algoritmos.Multimedia.resources
+D:\6.-Proyectos\GITHUB_mainnet\CS-001-MenuJuegos\3NM40\Algoritmos\Algoritmos\obj\Debug\Algoritmos.Pacman.resources
+D:\6.-Proyectos\GITHUB_mainnet\CS-001-MenuJuegos\3NM40\Algoritmos\Algoritmos\obj\Debug\Algoritmos.Properties.Resources.resources
+D:\6.-Proyectos\GITHUB_mainnet\CS-001-MenuJuegos\3NM40\Algoritmos\Algoritmos\obj\Debug\Algoritmos.csproj.GenerateResource.cache
+D:\6.-Proyectos\GITHUB_mainnet\CS-001-MenuJuegos\3NM40\Algoritmos\Algoritmos\obj\Debug\Algoritmos.csproj.CoreCompileInputs.cache
